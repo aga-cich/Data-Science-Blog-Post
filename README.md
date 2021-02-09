@@ -30,5 +30,8 @@ flavors_of_cacao.xlsx
 3. The most popular taste characteristics among the best bars are: the cocoa taste, creaminess and nuttiness.
 4. The safest option for the ingredients is the combination of Beans, Sugar and Cocoa Butter. This choice is much more popular among the best bars in comparison to the worst bars.
 
+## Blog Post
+The corresponding Blog Post can be found [here](https://aga-cich.medium.com/how-to-make-a-highly-recommended-chocolate-bar-with-python-f381ab14c989).
+
 ## Acknowledgements
 The data comes from http://flavorsofcacao.com/chocolate_database.html.
